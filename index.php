@@ -2,6 +2,7 @@
 <html>
 	<head></head>
 	<body>
+		<h1>MDI Competency Test - Ainul Yaqin Wahyudin</h1>
   		<p><a href="/mediatics/warming_up1.php">Warming Up Swap 2 Variables</a></p>
   		<p><a href="/mediatics/warming_up2.php">Warming Up Swap 2 Integers Without additional Varable or Function</a></p>
   		<p><a href="/mediatics/sql.php">SQL</a></p>
